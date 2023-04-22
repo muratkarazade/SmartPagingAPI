@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enoca.Task.Pagination", "Enoca.Task.Pagination\Enoca.Task.Pagination.csproj", "{8CB275E6-77BE-4DB4-8E9A-BA794E718444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB275E6-77BE-4DB4-8E9A-BA794E718444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB275E6-77BE-4DB4-8E9A-BA794E718444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB275E6-77BE-4DB4-8E9A-BA794E718444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB275E6-77BE-4DB4-8E9A-BA794E718444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B6922B-252A-457C-8975-6C96B05FBDD9}
+	EndGlobalSection
+EndGlobal
